@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing is a routing option that is facilitated by JavaScript. The main benefit in using client-side routing is that it offers control of your website URL as well as content without having to wait for your server to respond with the content you want displayed. It's meant to mirror how traditional (multiple page) websites look. Another main draw within client-side routing is that there isn't a true refresh function. When the user clicks a button, instead of the request going to a completely separate URL, it's already rendered and prepared to display straight from React itself.
 
 ## Project Set Up
 
