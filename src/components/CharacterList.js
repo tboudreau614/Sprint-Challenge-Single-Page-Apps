@@ -38,7 +38,7 @@ alert(`submitting Name: ${search}`)
     <section className="character-list">
       <h2></h2>
       <SearchForm
-        placeholder='search characters'
+        placeholder='Search...'
         value={search}
         handleChange={handleChange}
         handleSubmit={handleSubmit}
