@@ -27,13 +27,32 @@ main {
 .grid-view div.card.ui {
   margin: 1.25rem;
 }
-/*
+
 .main-img {
-  display: block;
+  display: flex;
   border-radius: 100%;
   margin: 0 auto;
-} */
+  margin-top: 150px;
+} 
 
 header h1 {
   text-align: center;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.char-card {
+  display:flex;
+  flex-direction: column;
+  width: 35%;
+  align-items: center;
+  margin: 0 33%;
+}
+
+.char-card p {
+  font-size: 2rem;
+  font-weight: bold;
 }
